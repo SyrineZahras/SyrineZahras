@@ -9,9 +9,10 @@ Hi! My name is Syrine and I'm a software engineer from Tunisia. Thank You for ta
 
 ### About Me 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently studying at ESPRIT Higher School of Engineering
-- 🌱 I’m currently learning MERN Stack Development : MongoDB, Express Web Framework, React JS, Node JS
-- 📫 How to reach me: syrine.zahras@esprit.tn
+
+- 🔭 I’m currently studying at ESPRIT Higher School of Engineering &nbsp;
+- 🌱 I’m currently learning MERN Stack Development : MongoDB, Express Web Framework, React JS, Node JS &nbsp;
+- 📫 How to reach me: syrine.zahras@esprit.tn &nbsp;
 
 
 ### Find me all around the web: 
