@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    <img width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fir.linkedin.com%2Fin%2Fzohre-namdari-14b36118b&psig=AOvVaw3CfIMZhq30QxG3KppAE6Xs&ust=1645391862122000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCr9PzVjPYCFQAAAAAdAAAAABAD">
+    <img width="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 </p>
 
 
