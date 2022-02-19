@@ -13,8 +13,8 @@ Hi! My name is Syrine and I'm a software engineer from Tunisia. Thank You for ta
 - 🌱 I’m currently learning MERN Stack Development : MongoDB, Express Web Framework, React JS, Node JS
 - 📫 How to reach me: syrine.zahras@esprit.tn
 
-### Find me all around the web:
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<h2> Find me all around the web:
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/syrine-zahras-95ab51161/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/syrinezahraz" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
@@ -23,7 +23,6 @@ Hi! My name is Syrine and I'm a software engineer from Tunisia. Thank You for ta
 
 ### 🚀 Skills
 <div align="center">
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=typecript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
