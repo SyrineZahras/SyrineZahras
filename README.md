@@ -13,11 +13,10 @@ Hi! My name is Syrine and I'm a software engineer from Tunisia. Thank You for ta
 - 🌱 I’m currently learning MERN Stack Development : MongoDB, Express Web Framework, React JS, Node JS
 - 📫 How to reach me: syrine.zahras@esprit.tn
 
+&nbsp;
 <h2> Find me all around the web: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left">
 <a href="https://www.linkedin.com/in/syrine-zahras-95ab51161/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/syrinezahraz" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-</p>
 
 
 ### 🚀 Skills
