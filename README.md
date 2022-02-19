@@ -56,5 +56,5 @@ Hi! My name is Syrine and I'm a software engineer from Tunisia. Thank You for ta
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SyrineZahras&theme=jolly" width="700">
     
-    
+<a  href="https://github.com/SyrineZahras/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyrineZahras&layout=compact&theme=vision-friendly-dark" /></a> 
     
